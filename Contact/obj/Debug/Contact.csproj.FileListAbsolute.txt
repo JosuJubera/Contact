@@ -80,3 +80,5 @@ C:\Dev net MVC\Contact\Contact\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Dev net MVC\Contact\Contact\obj\Debug\Contact.csprojResolveAssemblyReference.cache
 C:\Dev net MVC\Contact\Contact\obj\Debug\Contact.dll
 C:\Dev net MVC\Contact\Contact\obj\Debug\Contact.pdb
+C:\Dev net MVC\Contact\Contact\obj\Debug\Contact.Migrations.InitialCreate.resources
+C:\Dev net MVC\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.Cache
