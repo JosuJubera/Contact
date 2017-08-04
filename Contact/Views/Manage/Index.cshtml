@@ -1,9 +1,10 @@
-﻿@model Contact.Models.IndexViewModel
+﻿@using Microsoft.AspNet.Identity
+@model Contact.Models.IndexViewModel
 @{
-    ViewBag.Title = "Manage";
+    ViewBag.Title = User.Identity.GetUserName();
 }
 
-<h2>@ViewBag.Title.</h2>
+<h2>@ViewBag.Title</h2>
 
 <p class="text-success">@ViewBag.StatusMessage</p>
 <div>
