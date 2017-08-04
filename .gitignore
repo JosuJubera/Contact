@@ -1,0 +1,9 @@
+## DB
+*.mdf
+*ldf
+
+## bin
+Contact/bin/
+
+## obj
+Contact/obj/
